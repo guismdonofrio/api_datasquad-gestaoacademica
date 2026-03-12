@@ -1,4 +1,11 @@
 # API 2026 - DATASQUAD: Desenvolvimento de um aplicativo
+Faculdade de Tecnologia de São José dos Campos - Professor Jessen Vidal
+
+#
+<p align="center">
+      <img src="docs/img/logo_datasquad.png" alt="logo do Data Squad" width="200">
+      <h2 align="center"> Data Squad </h2>
+</p>
 
 
 Sprint | Previsão | Status|
