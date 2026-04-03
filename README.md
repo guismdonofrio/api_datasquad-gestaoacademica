@@ -56,20 +56,29 @@ Desenvolvemos uma aplicação JavaFX que centraliza a gestão acadêmica para pr
 
 ---
 
-## DoR - Definition of Ready  <a id="dor"></a>
+## DoR - Definition of Ready <a id="dor"></a>
 
-* User Stories com **Critérios de Aceitação**
-* Subtarefas divididas **a partir das US**
-* Modelagem do **Banco de Dados**
+* User Story clara, objetiva e focada no usuário
+* Critérios de aceitação definidos
+* Subtarefas identificadas a partir da User Story
+* Protótipos das telas disponíveis (quando aplicável)
+* Estrutura inicial do banco de dados definida (quando necessário)
+* Tecnologias definidas
+* Sem dependências bloqueadoras
+* Responsáveis definidos
 
 
 ## DoD - Definition of Done <a id="dod"></a>
 
-* Manual de Usuário
-* Manual da Aplicação
-* Documentação da API (Application Programming Interface)
-* Código completo
-* Vídeos de cada etapa de entrega
+* Código implementado e versionado no GitHub
+* Branch criada e Pull Request aberto
+* Código revisado e aprovado (code review)
+* Funcionalidade implementada e funcional na interface
+* Integração entre componentes/telas funcionando
+* Testes manuais realizados
+* Nenhum bug crítico conhecido
+* Documentação atualizada (README, Sprints, etc.)
+* Funcionalidade validada pelo Product Owner
 
 ---
 
