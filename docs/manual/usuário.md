@@ -98,7 +98,7 @@ Após o login, o usuário poderá:
 * Troca dinâmica de telas (FXML)
 * Integração entre login e cadastro
 
-### 🔹 Organização em MVC
+### Organização em MVC
 
 * Separação entre:
 
