@@ -58,27 +58,25 @@ Desenvolvemos uma aplicação JavaFX que centraliza a gestão acadêmica para pr
 
 ## DoR - Definition of Ready <a id="dor"></a>
 
-* User Story clara, objetiva e focada no usuário
-* Critérios de aceitação definidos
-* Subtarefas identificadas a partir da User Story
-* Protótipos das telas disponíveis (quando aplicável)
-* Estrutura inicial do banco de dados definida (quando necessário)
-* Tecnologias definidas
-* Sem dependências bloqueadoras
-* Responsáveis definidos
+* User Story clara, objetiva e focada no usuário.
+* Critérios de aceitação definidos.
+* Subtarefas identificadas a partir da User Story.
+* Protótipos das telas disponíveis.
+* Estrutura inicial do banco de dados definida.
+* Tecnologias definidas.
+* Sem dependências bloqueadoras.
+* Responsáveis definidos.
 
 
 ## DoD - Definition of Done <a id="dod"></a>
 
-* Código implementado e versionado no GitHub
-* Branch criada e Pull Request aberto
-* Código revisado e aprovado (code review)
-* Funcionalidade implementada e funcional na interface
-* Integração entre componentes/telas funcionando
-* Testes manuais realizados
-* Nenhum bug crítico conhecido
+* Código implementado e versionado no GitHub.
+* Funcionalidade implementada e funcional na interface.
+* Integração entre componentes/telas funcionando.
+* Testes manuais realizados.
+* Nenhum bug crítico conhecido.
 * Documentação atualizada (README, Sprints, etc.)
-* Funcionalidade validada pelo Product Owner
+* Funcionalidade validada pelo Product Owner.
 
 ---
 
@@ -86,11 +84,9 @@ Desenvolvemos uma aplicação JavaFX que centraliza a gestão acadêmica para pr
 
 Sprint | Previsão | Status|
 |------|--------|------|
-|Kick Off | 04/03/2026 | concluído| 
 |Sprint 01 | 16/03/2026 | em progresso | 
 |Sprint 02|  13/04/2026| a fazer |
-|Sprint 03| 11/05/2026 | a fazer|
-|Feira de soluções| 11/06/2026 | a fazer|
+|Sprint 03| 11/05/2026 | a fazer 
 
 ---
 
