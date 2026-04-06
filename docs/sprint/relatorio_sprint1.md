@@ -9,13 +9,11 @@ Implementar o núcleo inicial do sistema de gestão acadêmica, permitindo a ger
 
 - [x] User Stories claras e focadas no usuário  
 - [x] Critérios de aceitação definidos  
-- [x] Protótipos das telas disponíveis ([Wireframes da Sprint 1](docs/sprint/wireframe_s1))  
+- [x] Protótipos das telas disponíveis ([Wireframes da Sprint 1](docs/sprint/wireframe_s1/README.md))  
 - [x] Estrutura inicial do banco de dados definida  
 - [x] Tecnologias definidas (Java, JavaFX, MaterialFX)  
 - [x] Sem dependências bloqueadoras  
 - [x] Responsáveis definidos  
-
----
 
 ## Definition of Done (DoD)
 
