@@ -22,8 +22,6 @@ Desenvolvemos uma aplicação JavaFX que centraliza a gestão acadêmica para pr
 
 ## Backlog do Produto <a id="backlog"></a>
 
-## Backlog do Produto <a id="backlog"></a>
-
 | Rank | Prioridade | User Story | Estimativa | Sprint |
 | --- | --- | --- | --- | --- |
 | 1   | Alta | Como professor, quero que a tabela do semestre seja montada automaticamente, para não precisar gastar horas organizando manualmente as aulas. | 3   | 1   |
