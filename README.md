@@ -99,7 +99,7 @@ Para uma User Story ser considerada **completa**, os seguintes critérios devem 
 Sprint | Previsão | Status|
 |------|--------|------|
 |Sprint 01 | 16/03/2026 | concluído |
-|Sprint 02| 13/04/2026| a fazer |
+|Sprint 02| 13/04/2026| Em andamento |
 |Sprint 03| 11/05/2026 | a fazer
 
 * * *
