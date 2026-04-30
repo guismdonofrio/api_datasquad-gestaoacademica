@@ -27,7 +27,7 @@ Desenvolvemos uma aplicação JavaFX que centraliza a gestão acadêmica para pr
 | 1   | Alta | Como professor, quero que a tabela do semestre seja montada automaticamente, para não precisar gastar horas organizando manualmente as aulas. | 3   | 1   |
 | 2   | Alta | Como professor, quero separar os planejamentos por curso e por semestre, para não confundir turmas diferentes. | 2   | 1   |
 | 3   | Media | Como professor, desejo que o sistema impeça o agendamento de avaliações em períodos restritos, para garantir que o planejamento ocorra sem conflitos. |   5  | 2   |
-| 4   | Media | Como professor, quero que o coordenador preencha as datas de feriados, para que não corrompam o planejamento. |  5   | 2   |
+| 4   | Media | Como professor, quero que a secretaria preencha as datas de feriados, para que não corrompam o planejamento. |  5   | 2   |
 | 5   | Media | Como professor, quero informar os temas que preciso ensinar, para que a tabela seja montada usando esses assuntos. |   3  | 2   |
 | 6   | Media | Como professor, quero indicar se um tema precisa ser ensinado antes de outro, para evitar que os alunos vejam um assunto sem entender o anterior. |  5   | 2   |
 | 7   | Media | Como professor, quero indicar quais temas são opcionais, para que eles apareçam apenas se houver tempo no semestre. |   3  | 2   |
@@ -56,7 +56,7 @@ Desenvolvemos uma aplicação JavaFX que centraliza a gestão acadêmica para pr
 | Id | rank | Prioridade | User Story | Estimativa | Sprint |
 | -- | ---- | ---------- | ---------- | ---------- | ------ |
 | [Restrições de Agendamento para Organização do Sistema](docs/sprint/Sprint-2/US3.md) | 3    | Media      | Como professor, desejo que o sistema impeça o agendamento de avaliações em períodos restritos, para garantir que o planejamento ocorra sem conflitos. | 5          | 2      |
-| [Restrições de Agendamento Atribuídas a Um Coordenador](docs/sprint/Sprint-2/US4.md) | 4    | Media      | Como professor, quero que o coordenador preencha as datas de feriados, para que não corrompam o planejamento.                                         | 5          | 2      |
+| [Restrições de Agendamento Atribuídas a Um Coordenador](docs/sprint/Sprint-2/US4.md) | 4    | Media      | Como professor, quero que a secretaria preencha as datas de feriados, para que não corrompam o planejamento.                                         | 5          | 2      |
 | [Adição de Temas por um Professor](docs/sprint/Sprint-2/US5.md)                      | 5    | Media      | Como professor, quero informar os temas que preciso ensinar, para que a tabela seja montada usando esses assuntos.                                    | 3          | 2      |
 | [Specificações de um Tema_1](docs/sprint/Sprint-2/US6.md)                            | 6    | Media      | Como professor, quero indicar se um tema precisa ser ensinado antes de outro, para evitar que os alunos vejam um assunto sem entender o anterior.     | 5          | 2      |
 | [Specificações de um Tema_2](docs/sprint/Sprint-2/US7.md)                            | 7    | Media      | Como professor, quero indicar quais temas são opcionais, para que eles apareçam apenas se houver tempo no semestre.                                   | 3          | 2      |
